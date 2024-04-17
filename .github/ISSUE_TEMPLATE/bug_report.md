@@ -7,12 +7,14 @@ assignees: ''
 
 ---
 
-**Describe the Bug**
-```
+### Description :
 
 ```
 
-**Steps To Reproduce the Behavior**
+```
+
+### Steps To Reproduce the Behavior :
+
 ```
 1. Go to '...'
 2. Click on '....'
@@ -20,22 +22,30 @@ assignees: ''
 4. See error
 ```
 
-**Expected behavior**
-```
+### Expected behavior :
 
 ```
 
-**Screenshots**
+```
+
+### Expected behavior :
+
+```
+
+```
+### Screenshots :
 
 
-**Test Environment**
+### Test Environment :
+
  ```
  - OS : 
  - Browser: 
  - Version : 
 ```
 
-**Additional context**
+### Additional context :
+
 ```
 
 ```
